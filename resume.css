@@ -49,8 +49,6 @@ p.enlarge span { color: #000 }
 
 /* //-- section styles -- */
 
-a#pdf { display: block; float: left; background: rgb(94, 61, 61); color: white; padding: 6px 50px 6px 12px; margin-bottom: 6px; text-decoration: none; border-radius: 10px; }
-a#pdf:hover { background: rgba(211, 180, 8, 0.479);}
 
 .job { position: relative; margin-bottom: 1em; padding-bottom: 1em; border-bottom: 1px solid rgb(68, 58, 11); }
 .job h4 { position: absolute; top: 0.35em; right: 0 }
